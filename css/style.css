@@ -1,0 +1,104 @@
+.form-container{
+    display: flex; 
+    background:rgba(255, 255, 255, 1);
+    width: 816px;
+    height: 342px;
+    padding-top:  80px;
+    border-radius: 2%;
+    border-style: groove;
+    font-family: 'Nunito Sans', sans-serif; 
+}
+
+.block1{
+    margin: 0px 10px;
+    background:rgba(255, 255, 255, 1);
+    width: 210px;
+    height: 275px;      
+}
+
+.text-block1{
+    position: absolute;
+    left: 50px;
+    color: rgba(75, 81, 87, 1);
+    top: 5%;
+    padding-left: 20px;      
+}
+
+.block2{
+    margin: 0px 10px;
+    background:rgba(255, 255, 255, 1);
+    width: 20px;
+    height: 275px; 
+}
+
+.vl {
+    border-left: 4px solid rgba(75, 81, 87, 0.397);
+    height: 240px;
+    border-radius: 10%;
+   
+}
+
+.text-block2{
+    position: absolute;
+    left: 300px;
+    color: rgba(75, 81, 87, 1);
+    top: 5%;
+    padding-left: 20px;
+}
+
+.block3{
+    margin: 0px 20px;
+    background:rgba(255, 255, 255, 1);
+    width: 200px;
+    height: 275px;    
+}
+
+.text-block3{
+    position: absolute;
+    left: 600px;
+    color: rgba(75, 81, 87, 1);
+    top: 5%;
+    padding-left: 20px;
+}
+
+.block4{
+    margin: 0px 10px;
+    background:rgba(255, 255, 255, 1);
+    width: 20px;
+    height: 275px;  
+}
+.v2 {
+    
+    border-left: 4px solid rgba(75, 81, 87, 0.397);
+    height: 240px;
+    border-radius: 10%;
+}
+
+.block5{
+    margin: 0px 10px;
+    background:rgba(255, 255, 255, 1);
+    width: 210px;
+    height: 275px;    
+}
+
+.block6{
+    margin: 0px 10px;
+    background:white;
+    width: 20px;
+    height: 275px;   
+}
+
+
+.radio_label{
+    font-size: 20px;
+    line-height: 35px;
+    padding-left: 10px;
+    color: rgba(75, 81, 87, 1);
+}
+.v3{
+    
+    border-left: 4px solid rgba(75, 81, 87, 0.397);
+    height: 240px;
+    border-radius: 2%;
+    padding-right: 20px;
+}
